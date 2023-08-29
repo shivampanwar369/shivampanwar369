@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivampanwar369
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I design Apps
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate 
 - 
 
 <!---
